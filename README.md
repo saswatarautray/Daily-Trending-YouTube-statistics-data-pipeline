@@ -1,2 +1,2 @@
-# dataengineering-youtube-analysis-project
+# dataengineering-youtube-analysis-pipeline
 Data Engineering YouTube Analysis Project
